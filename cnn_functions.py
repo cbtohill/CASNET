@@ -6,7 +6,6 @@ import tensorflow as tf
 import pandas as pd
 import matplotlib as mlp
 import scipy
-import seaborn as sns
 from scipy import stats
 from astropy.io import fits 
 from matplotlib.colors import LogNorm
@@ -19,11 +18,9 @@ from tensorflow.keras.optimizers import RMSprop, Adam, Adadelta, Adamax, SGD
 from sklearn.model_selection import train_test_split
 from tensorflow.keras import regularizers
 from tensorflow.keras.callbacks import EarlyStopping, ModelCheckpoint
-
 from numpy import expand_dims
-from tensorflow.keras.preprocessing.image import load_img
-from tensorflow.keras.preprocessing.image import img_to_array
-from tensorflow.keras.preprocessing.image import ImageDataGenerator
+
+
 
 
 # If using multiple GPUs, only use one of them 
