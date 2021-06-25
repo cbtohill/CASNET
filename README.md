@@ -1,4 +1,4 @@
-# Measuring the structure of high-redshift galaxies with deep learning
+# Quantifying non-parametric structure of high-redshift galaxies with deep learning
 
 Here we show a demonstration of the networks created and used in the paper [Quantifying non-parametric structure of high-redshift galaxies with deep learning, Tohill et al. 2020 ](https://arxiv.org/abs/2012.09081).  
 
